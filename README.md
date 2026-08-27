@@ -1,4 +1,5 @@
 # Object-Detection
+## Machine learning calss projects
 reference:
 
 1.	Freund, Y. and R.E. Schapire, A decision-theoretic generalization of on-line learning and an application to boosting. Journal of computer and system sciences, 1997. 55(1): p. 119-139.
